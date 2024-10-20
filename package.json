@@ -1,0 +1,17 @@
+{
+  "name": "admin-panel-ecommerse",
+  "version": "1.0.0",
+  "description": "this project specially developed for admin panel of any ecommese project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
